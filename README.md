@@ -66,8 +66,6 @@ Sou um profissional com perfil híbrido, unindo a **Engenharia Mecânica** e a *
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HEITORNERY&show_icons=true&theme=radical&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HEITORNERY&layout=compact&langs_count=5&theme=radical&locale=en" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=HEITORNERY&theme=radical&locale=en" height="150" alt="GitHub Streak" />
 </div>
 
@@ -83,6 +81,3 @@ Sou um profissional com perfil híbrido, unindo a **Engenharia Mecânica** e a *
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-```eof
-
-Basta substituir todo o conteúdo atual do seu repositório por este código. Os painéis de estatísticas agora estão otimizados e devem carregar lado a lado de forma limpa, sem deixar links quebrados soltos na tela.
